@@ -7,7 +7,7 @@ if (!gg) {
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://Atlas_MD:<1DER1539A>@cluster0.poiwq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+global.mongodb = process.env.MONGODB || "mongodb+srv://Atlas_MD:<Komal1539A>@cluster0.poiwq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey = process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
